@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1674022038 source:d:\tpu\5 семестр\Дискретная математика\Лаба3\lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<malloc.h>
+	"main1.h"
+
+1674019986 d:\tpu\5 семестр\Дискретная математика\Лаба3\lab3\main1.h
+	<math.h>
+	<inttypes.h>
+
